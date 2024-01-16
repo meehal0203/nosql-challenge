@@ -88,3 +88,4 @@ Answer the following questions:
 * How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 
+While completing this assignment I used Ask BCS learning Assistant, tutoring sessions and Stack Overflow.
