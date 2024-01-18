@@ -6,9 +6,9 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 
 This analysis will be broken into 3 parts: <br />
-[Link to NoSQL setup starter notebook Parts 1&2](NoSQL_setup_starter_ipynb)
+[Link to Parts 1&2](NoSQL_setup_starter_ipynb)
  will focus on  Database set-up and updating <br />
-[Link to NoSQL setup analysis notebook Part 3](NoSQL_analysis_starter_ipynb)
+[Link to Part 3](NoSQL_analysis_starter_ipynb)
  will perform some exploratory analysis on the findings
 
 
