@@ -7,9 +7,9 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 This analysis will be broken into 3 parts: <br />
 
-[Link to Parts 1&2](https://github.com/meehal0203/nosql-challenge/blob/main/Starter_Code%2012/NoSQL_analysis_starter.ipynb)
+[Parts 1&2](https://github.com/meehal0203/nosql-challenge/blob/main/Starter_Code%2012/NoSQL_analysis_starter.ipynb)
  will focus on  Database set-up and updating <br />
-[Link to Part 3](https://github.com/meehal0203/nosql-challenge/blob/main/Starter_Code%2012/NoSQL_analysis_starter.ipynb)
+[Part 3](https://github.com/meehal0203/nosql-challenge/blob/main/Starter_Code%2012/NoSQL_analysis_starter.ipynb)
  will perform some exploratory analysis on the findings
 
 
